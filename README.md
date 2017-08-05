@@ -1,1 +1,4 @@
 # Biped-Robotics
+
+
+Objectives:
